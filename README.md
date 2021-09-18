@@ -1,5 +1,4 @@
-# Base Web App
-
+# Spicy-Treat
 Check it out at: https://intense-depths-97149.herokuapp.com/
 
 Today, we’ll get you up and running with a basic web application that you’ll then be able to build off of. But first, there are a few accounts you’ll need to set up and technologies you’ll need to install on your computer.
